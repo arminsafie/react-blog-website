@@ -2,8 +2,8 @@ import { Routes, Route, useLocation } from "react-router-dom";
 import { AnimatePresence } from "framer-motion";
 import { useEffect, useState } from "react";
 
-import Header from "../components/header";
-import Footer from "../components/footer";
+import Header from "@/components/header";
+import Footer from "@/components/footer";
 import Home from "@/page/Home";
 import Post from "@/page/Post";
 import Articles from "@/page/Articles";

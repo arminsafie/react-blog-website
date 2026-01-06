@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 
 import Header from "../components/header";
 import Footer from "../components/footer";
-import Home from "../page/Home";
+import Home from "@/page/Home";
 import Post from "../page/Post";
 import Articles from "../page/Articles";
 import About from "../page/AboutMe";
